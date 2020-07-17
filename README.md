@@ -1,5 +1,5 @@
 # Lion Client
-![Discord](https://img.shields.io/discord/733319645347446803?color=brightgreen&label=Discord&logo=Discord&logoColor=brightgreen)
+![Discord](https://img.shields.io/discord/733319645347446803?logo=discord)
 ## How to use
 1. Navigate to [release page](https://github.com/cristiioan/LionClient/releases) and download the last release.
 2. navigate to [Forge Website](https://files.minecraftforge.net) and download the last version for 1.12.2 forge.
