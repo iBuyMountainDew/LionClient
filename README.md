@@ -1,5 +1,6 @@
 # Lion Client
-![Discord](https://img.shields.io/discord/733319645347446803?logo=discord)
+[![Discord](https://img.shields.io/discord/733319645347446803?logo=discord&logoColor=brightgreen)](https://discord.gg/xwMUQzw)
+[![GitHub All Releases (including pre-releases)](https://img.shields.io/github/downloads/cristiioan/LionClient/total?logo=Github)](https://github.com/cristiioan/LionClient/total)
 ## How to use
 1. Navigate to [release page](https://github.com/cristiioan/LionClient/releases) and download the last release.
 2. navigate to [Forge Website](https://files.minecraftforge.net) and download the last version for 1.12.2 forge.
